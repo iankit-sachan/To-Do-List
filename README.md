@@ -68,6 +68,7 @@ python manage.py runserver
 Open your web browser and navigate to http://127.0.0.1:8000/.
 
 Project Structure
+<pre><code>
 To_do_list/
 ├── todo/                     # Main Django app
 │   ├── migrations/           # Database migration files
@@ -86,3 +87,4 @@ To_do_list/
 │   ├── urls.py               # Project-level URLs
 │   └── ...
 └── manage.py                 # Django's command-line utility
+   </code></pre>
