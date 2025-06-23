@@ -4,7 +4,7 @@ This is the my first project
 To-Do List Web Application
 A simple, clean, and user-friendly To-Do List application built with Django and styled with Bootstrap. This project allows users to manage their daily tasks efficiently through an intuitive web interface.
 
-Features
+'''Features
 ◽Create, Read, Update, Delete (CRUD) Operations:
    ▪ Add Tasks: Quickly add new tasks through a simple input form.
    ▪ View All Tasks: See a list of all current tasks.
@@ -35,7 +35,7 @@ Prerequisites
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/iankit-sachan/your-repository-name.git
 cd To_do_list
 Create and activate a virtual environment:
 
@@ -66,7 +66,7 @@ Bash
 
 python manage.py runserver
 Open your web browser and navigate to http://127.0.0.1:8000/.
-
+'''
 Project Structure
 <pre><code>
 To_do_list/
